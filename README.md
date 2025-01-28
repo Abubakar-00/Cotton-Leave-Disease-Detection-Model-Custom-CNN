@@ -1,5 +1,7 @@
 # Cotton Leaf Disease Detection Model using Custom CNN
-
+![Cotton Leaf Diseases](https://img.shields.io/badge/Deep%20Learning-Cotton%20Disease-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange)
+![Python](https://img.shields.io/badge/Python-3.7+-blue)
 
 <p align="center">
     <img src=https://github.com/user-attachments/assets/e598abd7-4037-45b5-b5a3-159c7c304091>
